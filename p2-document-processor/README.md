@@ -10,12 +10,13 @@ Characteristics:
 - Extremely cost-effective (uses AWS Free Tier only)
 
 Services used:
-• S3
-• IAM
-• Lambda with Python
-• DynamoDB
-• SES (Simple Email Services)
-• Amazon Textract
-• CloudWatch (logging & debugging)
+
+- S3
+- IAM
+- Lambda with Python
+- DynamoDB
+- SES (Simple Email Services)
+- Amazon Textract
+- CloudWatch (logging & debugging)
 
 #AWS #AI
