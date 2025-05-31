@@ -1,0 +1,6 @@
+Tools / Technologies used:
+• IAM
+• Route53 (routing, domain registrar)
+• ACM (certificates)
+• CloudFront (CDN)
+• S3 (static website hosting)
